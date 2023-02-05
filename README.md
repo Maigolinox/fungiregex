@@ -1,8 +1,5 @@
 # FungiRegEx
-FungiRegEx Software 1.0.0v documentation available at:
-https://victormiguelterronmacias.slite.com/app/docs/J7BJU3hXhd72EJ?source=default_subdocs_directory_block
-
-
+FungiRegEx Software 1.0.0v documentation.
 
 Also the documentation is in Spanish and in English:
 
